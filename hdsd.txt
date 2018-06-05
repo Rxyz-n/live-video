@@ -1,0 +1,7 @@
+1. Máy đã cài nodejs, nếu chưa thì link tải ở đây  // https://nodejs.org/en/download/
+2. Thêm ảnh ở public/assets/images
+3. Thêm nhạc ở public/assets/musics
+4. Dán ID bài viết và Access Token ở file config.js
+5. Khởi động Cmd / Terminal & trỏ tới thư mục 
+6. Chạy lệnh npm install
+7. Khởi động app bằng lệnh npm run serve
